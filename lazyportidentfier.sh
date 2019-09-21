@@ -113,7 +113,9 @@ echo " port $port is for XDCMP"
 179)
 echo " port $port is for BGP"
 ;;
-
+201)
+echo " port $port is for Apple.talk"
+;;
 esac
 
 done
